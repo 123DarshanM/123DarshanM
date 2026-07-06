@@ -1,22 +1,4 @@
-┌──────────────────────────────────────────────┐
-root@cybersecurity:~$ whoami
-Darshan Manjunath Mutagond
-
-root@cybersecurity:~$ role
-Cybersecurity Student
-
-root@cybersecurity:~$ skills
-✓ Python
-✓ Linux
-✓ Networking
-✓ Web Security
-✓ Ethical Hacking
-
-root@cybersecurity:~$ status
-████████████████████ 100%
-Learning Never Stops...
-└──────────────────────────────────────────────┘
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=60&pause=1500&color=39FF14&background=00000000&width=850&height=330&lines=%24+whoami;Darshan+Manjunath+Mutagond;;%24+role;Cybersecurity+Student;;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
 
 
 # Hi 👋 I'm Darshan
