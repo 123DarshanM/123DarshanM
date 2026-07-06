@@ -22,8 +22,5 @@
 
 ## 📫 Connect
 
-LinkedIn:
-https://www.linkedin.com/in/darshan-mutagond-17n
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/darshan-mutagond-17n)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto: darshamutagond123@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINK)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL)
