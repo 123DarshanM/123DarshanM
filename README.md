@@ -1,6 +1,21 @@
+┌──────────────────────────────────────────────┐
+root@cybersecurity:~$ whoami
+Darshan Manjunath Mutagond
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+root@cybersecurity:~$ role
+Cybersecurity Student
 
+root@cybersecurity:~$ skills
+✓ Python
+✓ Linux
+✓ Networking
+✓ Web Security
+✓ Ethical Hacking
+
+root@cybersecurity:~$ status
+████████████████████ 100%
+Learning Never Stops...
+└──────────────────────────────────────────────┘
 
 
 
