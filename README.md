@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00FF41&background=00000000&width=800&height=350&vCenter=true&lines=%24+whoami;Darshan+Manjunath+Mutagond;;%24+role;Cybersecurity+Student;;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00FF41&background=00000000&width=850&height=350&lines=%24+whoami;Darshan+Manjunath+Mutagond;;%24+role;Cybersecurity+Student;;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
 
 # Hi 👋 I'm Darshan
 
