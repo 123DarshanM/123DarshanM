@@ -24,3 +24,6 @@
 
 LinkedIn:
 https://www.linkedin.com/in/darshan-mutagond-17n
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/darshan-mutagond-17n)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto: darshamutagond123@gmail.com)
