@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=200&color=00FF41&background=00000000&center=false&vCenter=true&multiline=true&width=800&height=320&lines=%24+whoami;Darshan+M;%24+role;Cybersecurity+Student;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=10&color=00FF41&background=00000000&center=false&vCenter=true&multiline=true&width=800&height=320&lines=%24+whoami;Darshan+M;%24+role;Cybersecurity+Student;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
 
 
 
