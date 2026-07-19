@@ -4,34 +4,6 @@
   <img alt="Darshan M profile banner" src="https://raw.githubusercontent.com/darshan-mutagond-17n/darshan-mutagond-17n/main/dark.svg">
 </picture>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hi 👋 I'm Darshan
-
-🎓 CSE(Cybersecurity) Student
-
-🔐 Cybersecurity Enthusiast
-
-💻 Learning Python, C, Linux & Networking
-
-🌱 Currently learning
-- Ethical Hacking
-- Penetration Testing
-- AI
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
