@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=500&pause=100&color=00FF41&background=00000000&center=false&vCenter=true&multiline=true&width=800&height=420&lines=%24+whoami;Darshan+M;%24+role;Cybersecurity+Student;%24+skills;Python;Linux;Networking;Web+Security;Ethical+Hacking;%24+status;Learning+Never+Stops...)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/123DarshanM/darshan-mutagond-17n/refs/heads/main/dark(1).svg ">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/123DarshanM/darshan-mutagond-17n/refs/heads/main/light(1).svg">
+  <img alt="Darshan M profile banner" src="https://raw.githubusercontent.com/darshan-mutagond-17n/darshan-mutagond-17n/main/dark.svg">
+</picture>
 
 
 
